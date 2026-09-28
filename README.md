@@ -1,5 +1,13 @@
 # ITAコーパス（Emotion）読み上げ音声コーパス
 
+> [!IMPORTANT]
+> ## 音声データの配布一時停止について
+>
+> 現在、本音声コーパスは利用条件等の確認のため、
+> **新規ダウンロードを一時停止しています。**
+>
+> 配布再開については、本ページにて改めてお知らせします。
+
 ### 概要
 本音声コーパスは、研究・技術開発を支援することを目的として作成した音声データセットです。
 [ITAコーパス「Emotion」](https://github.com/mmorise/ita-corpus)の読み上げを収録しています。 <br>
@@ -27,22 +35,28 @@
 ### 作成者
 小林理学研究所 ／ リオン株式会社
 ### ダウンロード方法
-ダウンロードは[こちら](https://forms.office.com/pages/responsepage.aspx?id=NV0MTox4j0-pyLz6c_0CZyyVVykmM4NCkessUofr6hBUQzNVVVpaMzNNMVo5UFhCODM0TzJaNjJUMy4u&route=shorturl)。
+現在、音声データの新規ダウンロードを一時停止しています。
+配布再開については、本ページにてお知らせします。
 
 ### 利用規約・引用情報
-本音声コーパスは、 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の条件に従い、無償でご利用いただけます。ただし、転売は禁止します。 <br>
-引用する場合は下記の例を参考にしてください。 <br>
-引用例：小林理学研究所／リオン株式会社（2026）.「ITA-Corpus-Rion」( https://github.com/Rion-Dev/ita-corpus-Rion ) 
+本コーパスの利用条件については現在確認中です。
 ### お問い合わせ先<br>
 [rion_sound_dataset@rion.co.jp](mailto:rion_sound_dataset@rion.co.jp)
 ### 更新履歴 <br>
+- 2026/09/28：利用条件等の確認のため、音声データの新規配布を一時停止
 - 2026/05/28：音声コーパス 提供開始
 
 ---
 
 
 ## ITA Corpus (Emotion) – Scripted Speech Corpus
-
+> [!IMPORTANT]
+> ## Temporary Suspension of Dataset Distribution
+>
+> New downloads of this speech corpus are currently
+> **temporarily suspended while we review the terms of use and related conditions.**
+>
+> Information regarding the resumption of distribution will be posted on this page.
 ### Overview
 This speech corpus has been compiled to support research and technological development. It contains scripted recordings from the [ITA Corpus “Emotion”](https://github.com/mmorise/ita-corpus)<br>
 Sample audio files are available [here](https://rion-dev.github.io/ita-corpus-Rion/index.html).
@@ -68,21 +82,18 @@ The corpus includes 50 native Japanese-speaking adults (25 male, 25 female). <br
 - Rion Co., Ltd. <br>
 
 ### Download
-Click [here](https://forms.office.com/pages/responsepage.aspx?id=NV0MTox4j0-pyLz6c_0CZyyVVykmM4NCkessUofr6hBUQzNVVVpaMzNNMVo5UFhCODM0TzJaNjJUMy4u&route=shorturl) to download the dataset.
-
+New downloads of the speech data are currently temporarily suspended.
+Information regarding the resumption of distribution will be posted on this page.
 
 ### License and Citation
-This speech corpus is available free of charge under the Creative Commons Attribution 4.0 International License [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). <br>
-However, resale of the dataset is strictly prohibited. <br>
-Citation example: <br>
-Kobayasi Institute of Physical Research / Rion Co., Ltd. (2026). “ITA-Corpus-Rion.” <br>
-（[https://github.com/Rion-Dev/ita-corpus-Rion](https://github.com/Rion-Dev/ita-corpus-Rion)）
+We are currently reviewing the terms of use for this corpus.
 
 ### Contact
 For inquiries, please contact us : [rion_sound_dataset@rion.co.jp](mailto:rion_sound_dataset@rion.co.jp).
 
 
 ### Update History
+- 2026/09/28: New distribution of the speech data temporarily suspended while the terms of use and related conditions are under review.
 - 2026/05/28: Corpus released
 
 
